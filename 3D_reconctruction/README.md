@@ -23,19 +23,21 @@ make <-j # of cores>
 <h3> 3D reconstruction for a single frame </h3>
 
 <p align="center">
-<img src="include/1.png" width="350" height="700" >
+<img src="include/1.png"  >
 </p>
 
 <h3> 3D reconstruction using ICP for 20 frames </h3>
 
 <p align="center">
-<img src="include/3.png" width="600" height="300" >
+<img src="include/3.png">
+<img src="include/4.png">
 </p>
 
 <h3> Segment 3D mesh object </h3>
 
 <p align="center">
-<img src="include/3.png" width="350" height="350" >
+<img src="include/5.png"  >
+<img src="include/6.png"  >
 </p>
 
 
